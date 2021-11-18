@@ -1,0 +1,15 @@
+(AD)<-3*(AK)-2*((AD)) W
+
+czyt wys wei il ;
+wyak wes weja dod weak wyad wea;
+wys weja dod weak ;
+czyt wys weja ode weak ;
+wys weja ode weak ;
+wyak wes ;
+pisz wyl wea ;
+
+	pob to
+	rozkaz ito
+	stop
+to: 	rst 9
+ito: 	rst 11 //49

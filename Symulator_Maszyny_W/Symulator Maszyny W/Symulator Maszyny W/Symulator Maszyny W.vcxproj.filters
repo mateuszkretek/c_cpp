@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Interface">
+      <UniqueIdentifier>{0a2d3c7c-7147-43cd-8657-408686b9932c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Adding_orders">
+      <UniqueIdentifier>{8049648d-f11d-46bf-b31e-b60d871ce5b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Adding_program">
+      <UniqueIdentifier>{30ce1107-46c5-4910-8ee7-7511f660303f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Programming">
+      <UniqueIdentifier>{a22c293c-2afb-415a-9d4f-e2b58b98ad84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Programming">
+      <UniqueIdentifier>{c880f528-bafa-4944-9dda-8bfab893de2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interface">
+      <UniqueIdentifier>{39d24b95-641c-40bd-b555-cc97d002da3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Adding_program">
+      <UniqueIdentifier>{866cf8f2-aa38-47f1-9e66-0374712c1524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Adding_orders">
+      <UniqueIdentifier>{e975872f-47a7-4331-bb0f-e16e1d3161a6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Symulator Maszyny W.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="load_basic_orders.cpp">
+      <Filter>Source Files\Adding_orders</Filter>
+    </ClCompile>
+    <ClCompile Include="add_new_order.cpp">
+      <Filter>Source Files\Adding_orders</Filter>
+    </ClCompile>
+    <ClCompile Include="read_order_txt.cpp">
+      <Filter>Source Files\Adding_orders</Filter>
+    </ClCompile>
+    <ClCompile Include="read_order_console.cpp">
+      <Filter>Source Files\Adding_orders</Filter>
+    </ClCompile>
+    <ClCompile Include="database.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="machine.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="signal.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="order.cpp">
+      <Filter>Source Files\Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="program.cpp">
+      <Filter>Source Files\Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="add_program.cpp">
+      <Filter>Source Files\Adding_program</Filter>
+    </ClCompile>
+    <ClCompile Include="read_program_txt.cpp">
+      <Filter>Source Files\Adding_program</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="load_basic_orders.h">
+      <Filter>Header Files\Adding_orders</Filter>
+    </ClInclude>
+    <ClInclude Include="add_new_order.h">
+      <Filter>Header Files\Adding_orders</Filter>
+    </ClInclude>
+    <ClInclude Include="read_order_txt.h">
+      <Filter>Header Files\Adding_orders</Filter>
+    </ClInclude>
+    <ClInclude Include="read_order_console.h">
+      <Filter>Header Files\Adding_orders</Filter>
+    </ClInclude>
+    <ClInclude Include="database.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="machine.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="signal.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="add_program.h">
+      <Filter>Header Files\Adding_program</Filter>
+    </ClInclude>
+    <ClInclude Include="order.h">
+      <Filter>Header Files\Programming</Filter>
+    </ClInclude>
+    <ClInclude Include="program.h">
+      <Filter>Header Files\Programming</Filter>
+    </ClInclude>
+    <ClInclude Include="read_program_txt.h">
+      <Filter>Header Files\Adding_program</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

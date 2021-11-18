@@ -1,0 +1,5 @@
+	pob a
+	dod a
+	lad a
+	stop
+a: 	rst 3

@@ -1,0 +1,15 @@
+(AD)<-2*(AK)-2*((AD)) W
+
+czyt wys wei il ;  			//S<-((A)), AD<-(S), L<-(L)+1
+wyak weja dod weak wyad wea;		//AK<-(AK)+(AK), A<-(AD)
+czyt wys weja ode weak ;		//S<-((A)), AK<-(AK)-(S)
+wys weja ode weak ;			//AK<-(AK)-(S)
+wyak wes ;				//S<-(AK)
+pisz wyl wea ;				//(A)<-(S), A<-(L)
+
+	pob ito
+	pob to
+	rozkaz ito
+	stop
+to: 	rst 33
+ito: 	rst 11 //44

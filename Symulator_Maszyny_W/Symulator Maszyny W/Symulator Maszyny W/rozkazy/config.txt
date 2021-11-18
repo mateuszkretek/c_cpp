@@ -1,0 +1,10 @@
+rozkazy/stop.txt
+rozkazy/dod.txt
+rozkazy/ode.txt
+rozkazy/pob.txt
+rozkazy/lad.txt
+rozkazy/sob.txt
+rozkazy/rozkaz1.txt
+rozkazy/rozkaz2.txt
+rozkazy/rozkaz3.txt
+rozkazy/rozkaz4.txt

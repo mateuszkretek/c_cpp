@@ -1,0 +1,5 @@
+	pob to
+	rozkaz4 ito
+	stop
+to: 	rst 9
+ito: 	rst 11
